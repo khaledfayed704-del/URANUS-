@@ -18,7 +18,7 @@
 ## 🚀 التنصيب
 
 ```bash
-git clone رابط-الريبو
+git clone https://github.com/khaledfayed704-del/URANUS-.git
 cd URANUS-
 npm install
 ```
